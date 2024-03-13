@@ -106,7 +106,8 @@ AC to DC Converter
 
 DC to DC voltage regulator
 
-![image](https://github.com/NivethaKumar30/Converter-design-and-simulation/assets/119559844/4127f2a5-13c1-4259-a57c-557b4c918de2)
+![Screenshot 2024-03-14 021751](https://github.com/NivethaKumar30/Converter-design-and-simulation/assets/119559844/9f549cf7-28a9-41eb-80a1-f1c0a04f497a)
+
 
 # Result 
 
